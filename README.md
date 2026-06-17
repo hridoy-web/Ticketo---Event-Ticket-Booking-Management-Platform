@@ -2,18 +2,10 @@
 
 A full-stack Event Ticket Booking & Management Platform where organizers can create events, attendees can purchase tickets securely, and admins can moderate the platform.
 
-## 📋 Project Requirements
-
-**Requirement Document:**
-
-https://docs.google.com/document/d/1BHW20BQy6gArwIcOpgWjYrqbcJ4rm-tgvXgFJ1pO0CQ/edit?usp=sharing
-
----
-
 ## 🚀 Clone Starter Branch
 
 ```bash
-git clone -b starter https://github.com/NS-Sheam/ticketo-client.git
+git clone [-b starter https://github.com/NS-Sheam/ticketo-client.git](https://github.com/hridoy-web/Ticketo---Event-Ticket-Booking-Management-Platform.git)
 ```
 
 ## 🚀 Getting Started
