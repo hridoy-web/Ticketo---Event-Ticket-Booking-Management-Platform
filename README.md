@@ -5,7 +5,7 @@ A full-stack Event Ticket Booking & Management Platform where organizers can cre
 ## 🚀 Clone Starter Branch
 
 ```bash
-git clone [-b starter https://github.com/NS-Sheam/ticketo-client.git](https://github.com/hridoy-web/Ticketo---Event-Ticket-Booking-Management-Platform.git)
+git clone https://github.com/hridoy-web/Ticketo---Event-Ticket-Booking-Management-Platform.git
 ```
 
 ## 🚀 Getting Started
